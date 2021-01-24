@@ -11,3 +11,4 @@ I'm Ahmad form Germany, and I'm webdeveloper. I really enjoy learning languages 
 
 
 
+<img src="https://github.com/adriantwarog/adriantwarog/raw/master/covid19.gif" width="512" style="max-width:100%;">
