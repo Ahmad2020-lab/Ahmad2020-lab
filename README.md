@@ -4,10 +4,11 @@ I'm Ahmad form Germany, and I'm webdeveloper. I really enjoy learning languages 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ahmad2020-lab)](https://github.com//github-readme-stats)
 
+## Skills and Experience: 
 
-
-:computer:
-:atom:
+:computer: HTML, CSS
+:atom: Rect
+:Angular: Angular 
 
 
 
