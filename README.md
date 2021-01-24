@@ -6,11 +6,7 @@ I'm Ahmad form Germany, and I'm webdeveloper. I really enjoy learning languages 
 
 ## Skills and Experience: 
 
-*  :computer: HTML, CSS
+*  :computer: HTML, CSS, JS, Angular, JQuery
 *  :atom: Rect
 
-
-
-
-Skills: HTML / CSS / JavaScript / jQuery / Angular / React  
 
